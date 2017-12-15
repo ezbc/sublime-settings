@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"DocBlockr",
+		"EditorConfig",
+		"Format JSDoc @params",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Refactor",
+		"JSCS-Formatter",
+		"JSON L18n Resources Editor",
+		"JSONLint",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"PackageSync",
+		"PowerShell",
+		"Pretty JSON",
+		"Python 3",
+		"Python Breakpoints",
+		"SideBarEnhancements",
+		"SideBarTools",
+		"SublimeCodeIntel",
+		"SublimeLinter-json",
+		"Wrap Plus"
+	]
+}

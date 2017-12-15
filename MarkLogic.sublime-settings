@@ -1,0 +1,22 @@
+{
+	"lint": {
+		"lint_on_save": true,
+		"scroll_to_error": true
+	},
+	// settings for Xcc connection
+	"xcc": {
+
+		// timeout in seconds for xcc connections
+		// can be decimal numbers ex: "1.5"
+		"timeout": "1",
+
+		// Use Settings from Roxy's properties files
+		// If this is not a Roxy project then the setttings above will be used
+		"use_roxy_settings": true,
+
+		// The roxy environment configuration to use
+		// Valid choices are usually local, dev, prod but may vary
+		"roxy_environment": "local",
+	}
+
+}

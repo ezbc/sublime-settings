@@ -1,0 +1,11 @@
+{
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"JSCS-Formatter"
+	],
+	"node_path": "C:/Users/elijah.bc/AppData/Roaming/npm",
+	"tab_size": 2,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}
